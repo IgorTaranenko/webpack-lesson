@@ -12,7 +12,7 @@
   ],
   "author": "Igor Taranenko",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12"
   }
